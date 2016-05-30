@@ -10,10 +10,11 @@ Note: this sets up the footprint libraries as local ones, not using the github p
 ### How to use this repository 
 ##### (if you just git clone this, it will not work!)
 
-This is meant to be cloned directly into the kicad library directory.  You may need to move the `$(prefix)/share/kicad` directory out of the way.  Note: `$(prefix)` is your KiCad install path.
+This is meant to be cloned directly into the kicad library directory.  You may need to move the `$(prefix)/share/kicad` directory out of the way.
 
 On Windows and Linux:
 ```
+# Note: `$(prefix)` is your KiCad install path.
 git clone --recursive https://github.com/metacollin/kicad-library.git $(prefix)/share/kicad
 ```
 
