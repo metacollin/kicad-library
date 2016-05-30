@@ -1,0 +1,336 @@
+[submodule "modules/Displays_7-Segment.pretty"]
+	path = modules/Displays_7-Segment.pretty
+[submodule "modules/Displays_7-Segment.pretty"]
+	url = https://github.com/KiCad/Displays_7-Segment.pretty.git
+[submodule "modules/Air_Coils_SML_NEOSID.pretty"]
+	path = modules/Air_Coils_SML_NEOSID.pretty
+[submodule "modules/Air_Coils_SML_NEOSID.pretty"]
+	url = https://github.com/KiCad/Air_Coils_SML_NEOSID.pretty.git
+[submodule "modules/Sockets_BNC.pretty"]
+	path = modules/Sockets_BNC.pretty
+[submodule "modules/Sockets_BNC.pretty"]
+	url = https://github.com/KiCad/Sockets_BNC.pretty.git
+[submodule "modules/Buzzers_Beepers.pretty"]
+	path = modules/Buzzers_Beepers.pretty
+[submodule "modules/Buzzers_Beepers.pretty"]
+	url = https://github.com/KiCad/Buzzers_Beepers.pretty.git
+[submodule "modules/Capacitors_SMD.pretty"]
+	path = modules/Capacitors_SMD.pretty
+[submodule "modules/Capacitors_SMD.pretty"]
+	url = https://github.com/KiCad/Capacitors_SMD.pretty.git
+[submodule "modules/Capacitors_ThroughHole.pretty"]
+	path = modules/Capacitors_ThroughHole.pretty
+[submodule "modules/Capacitors_ThroughHole.pretty"]
+	url = https://github.com/KiCad/Capacitors_ThroughHole.pretty.git
+[submodule "modules/Choke_Axial_ThroughHole.pretty"]
+	path = modules/Choke_Axial_ThroughHole.pretty
+[submodule "modules/Choke_Axial_ThroughHole.pretty"]
+	url = https://github.com/KiCad/Choke_Axial_ThroughHole.pretty.git
+[submodule "modules/Choke_Radial_ThroughHole.pretty"]
+	path = modules/Choke_Radial_ThroughHole.pretty
+[submodule "modules/Choke_Radial_ThroughHole.pretty"]
+	url = https://github.com/KiCad/Choke_Radial_ThroughHole.pretty.git
+[submodule "modules/Choke_SMD.pretty"]
+	path = modules/Choke_SMD.pretty
+[submodule "modules/Choke_SMD.pretty"]
+	url = https://github.com/KiCad/Choke_SMD.pretty.git
+[submodule "modules/Choke_Toroid_ThroughHole.pretty"]
+	path = modules/Choke_Toroid_ThroughHole.pretty
+[submodule "modules/Choke_Toroid_ThroughHole.pretty"]
+	url = https://github.com/KiCad/Choke_Toroid_ThroughHole.pretty.git
+[submodule "modules/Choke_Common-Mode_Wurth.pretty"]
+	path = modules/Choke_Common-Mode_Wurth.pretty
+[submodule "modules/Choke_Common-Mode_Wurth.pretty"]
+	url = https://github.com/KiCad/Choke_Common-Mode_Wurth.pretty.git
+[submodule "modules/Connect.pretty"]
+	path = modules/Connect.pretty
+[submodule "modules/Connect.pretty"]
+	url = https://github.com/KiCad/Connect.pretty.git
+[submodule "modules/Connectors_Molex.pretty"]
+	path = modules/Connectors_Molex.pretty
+[submodule "modules/Connectors_Molex.pretty"]
+	url = https://github.com/KiCad/Connectors_Molex.pretty.git
+[submodule "modules/Converters_DCDC_ACDC.pretty"]
+	path = modules/Converters_DCDC_ACDC.pretty
+[submodule "modules/Converters_DCDC_ACDC.pretty"]
+	url = https://github.com/KiCad/Converters_DCDC_ACDC.pretty.git
+[submodule "modules/Crystals.pretty"]
+	path = modules/Crystals.pretty
+[submodule "modules/Crystals.pretty"]
+	url = https://github.com/KiCad/Crystals.pretty.git
+[submodule "modules/Diodes_SMD.pretty"]
+	path = modules/Diodes_SMD.pretty
+[submodule "modules/Diodes_SMD.pretty"]
+	url = https://github.com/KiCad/Diodes_SMD.pretty.git
+[submodule "modules/Diodes_ThroughHole.pretty"]
+	path = modules/Diodes_ThroughHole.pretty
+[submodule "modules/Diodes_ThroughHole.pretty"]
+	url = https://github.com/KiCad/Diodes_ThroughHole.pretty.git
+[submodule "modules/Discret.pretty"]
+	path = modules/Discret.pretty
+[submodule "modules/Discret.pretty"]
+	url = https://github.com/KiCad/Discret.pretty.git
+[submodule "modules/Display.pretty"]
+	path = modules/Display.pretty
+[submodule "modules/Display.pretty"]
+	url = https://github.com/KiCad/Display.pretty.git
+[submodule "modules/Divers.pretty"]
+	path = modules/Divers.pretty
+[submodule "modules/Divers.pretty"]
+	url = https://github.com/KiCad/Divers.pretty.git
+[submodule "modules/EuroBoard_Outline.pretty"]
+	path = modules/EuroBoard_Outline.pretty
+[submodule "modules/EuroBoard_Outline.pretty"]
+	url = https://github.com/KiCad/EuroBoard_Outline.pretty.git
+[submodule "modules/Fiducials.pretty"]
+	path = modules/Fiducials.pretty
+[submodule "modules/Fiducials.pretty"]
+	url = https://github.com/KiCad/Fiducials.pretty.git
+[submodule "modules/Filters_HF_Coils_NEOSID.pretty"]
+	path = modules/Filters_HF_Coils_NEOSID.pretty
+[submodule "modules/Filters_HF_Coils_NEOSID.pretty"]
+	url = https://github.com/KiCad/Filters_HF_Coils_NEOSID.pretty.git
+[submodule "modules/Symbols.pretty"]
+	path = modules/Symbols.pretty
+[submodule "modules/Symbols.pretty"]
+	url = https://github.com/KiCad/Symbols.pretty.git
+[submodule "modules/Fuse_Holders_and_Fuses.pretty"]
+	path = modules/Fuse_Holders_and_Fuses.pretty
+[submodule "modules/Fuse_Holders_and_Fuses.pretty"]
+	url = https://github.com/KiCad/Fuse_Holders_and_Fuses.pretty.git
+[submodule "modules/Heatsinks.pretty"]
+	path = modules/Heatsinks.pretty
+[submodule "modules/Heatsinks.pretty"]
+	url = https://github.com/KiCad/Heatsinks.pretty.git
+[submodule "modules/Housings_SIP.pretty"]
+	path = modules/Housings_SIP.pretty
+[submodule "modules/Housings_SIP.pretty"]
+	url = https://github.com/KiCad/Housings_SIP.pretty.git
+[submodule "modules/Inductors.pretty"]
+	path = modules/Inductors.pretty
+[submodule "modules/Inductors.pretty"]
+	url = https://github.com/KiCad/Inductors.pretty.git
+[submodule "modules/Inductors_NEOSID.pretty"]
+	path = modules/Inductors_NEOSID.pretty
+[submodule "modules/Inductors_NEOSID.pretty"]
+	url = https://github.com/KiCad/Inductors_NEOSID.pretty.git
+[submodule "modules/IR-DirectFETs.pretty"]
+	path = modules/IR-DirectFETs.pretty
+[submodule "modules/IR-DirectFETs.pretty"]
+	url = https://github.com/KiCad/IR-DirectFETs.pretty.git
+[submodule "modules/Labels.pretty"]
+	path = modules/Labels.pretty
+[submodule "modules/Labels.pretty"]
+	url = https://github.com/KiCad/Labels.pretty.git
+[submodule "modules/LEDs.pretty"]
+	path = modules/LEDs.pretty
+[submodule "modules/LEDs.pretty"]
+	url = https://github.com/KiCad/LEDs.pretty.git
+[submodule "modules/Hall-Effect_Transducers_LEM.pretty"]
+	path = modules/Hall-Effect_Transducers_LEM.pretty
+[submodule "modules/Hall-Effect_Transducers_LEM.pretty"]
+	url = https://github.com/KiCad/Hall-Effect_Transducers_LEM.pretty.git
+[submodule "modules/Measurement_Points.pretty"]
+	path = modules/Measurement_Points.pretty
+[submodule "modules/Measurement_Points.pretty"]
+	url = https://github.com/KiCad/Measurement_Points.pretty.git
+[submodule "modules/Measurement_Scales.pretty"]
+	path = modules/Measurement_Scales.pretty
+[submodule "modules/Measurement_Scales.pretty"]
+	url = https://github.com/KiCad/Measurement_Scales.pretty.git
+[submodule "modules/Mechanical_Sockets.pretty"]
+	path = modules/Mechanical_Sockets.pretty
+[submodule "modules/Mechanical_Sockets.pretty"]
+	url = https://github.com/KiCad/Mechanical_Sockets.pretty.git
+[submodule "modules/Mounting_Holes.pretty"]
+	path = modules/Mounting_Holes.pretty
+[submodule "modules/Mounting_Holes.pretty"]
+	url = https://github.com/KiCad/Mounting_Holes.pretty.git
+[submodule "modules/NF-Transformers_ETAL.pretty"]
+	path = modules/NF-Transformers_ETAL.pretty
+[submodule "modules/NF-Transformers_ETAL.pretty"]
+	url = https://github.com/KiCad/NF-Transformers_ETAL.pretty.git
+[submodule "modules/Oddities.pretty"]
+	path = modules/Oddities.pretty
+[submodule "modules/Oddities.pretty"]
+	url = https://github.com/KiCad/Oddities.pretty.git
+[submodule "modules/Transistors_OldSowjetAera.pretty"]
+	path = modules/Transistors_OldSowjetAera.pretty
+[submodule "modules/Transistors_OldSowjetAera.pretty"]
+	url = https://github.com/KiCad/Transistors_OldSowjetAera.pretty.git
+[submodule "modules/Opto-Devices.pretty"]
+	path = modules/Opto-Devices.pretty
+[submodule "modules/Opto-Devices.pretty"]
+	url = https://github.com/KiCad/Opto-Devices.pretty.git
+[submodule "modules/Oscillators.pretty"]
+	path = modules/Oscillators.pretty
+[submodule "modules/Oscillators.pretty"]
+	url = https://github.com/KiCad/Oscillators.pretty.git
+[submodule "modules/PFF_PSF_PSS_Leadforms.pretty"]
+	path = modules/PFF_PSF_PSS_Leadforms.pretty
+[submodule "modules/PFF_PSF_PSS_Leadforms.pretty"]
+	url = https://github.com/KiCad/PFF_PSF_PSS_Leadforms.pretty.git
+[submodule "modules/Potentiometers.pretty"]
+	path = modules/Potentiometers.pretty
+[submodule "modules/Potentiometers.pretty"]
+	url = https://github.com/KiCad/Potentiometers.pretty.git
+[submodule "modules/Power_Integrations.pretty"]
+	path = modules/Power_Integrations.pretty
+[submodule "modules/Power_Integrations.pretty"]
+	url = https://github.com/KiCad/Power_Integrations.pretty.git
+[submodule "modules/Relays_ThroughHole.pretty"]
+	path = modules/Relays_ThroughHole.pretty
+[submodule "modules/Relays_ThroughHole.pretty"]
+	url = https://github.com/KiCad/Relays_ThroughHole.pretty.git
+[submodule "modules/Resistors_SMD.pretty"]
+	path = modules/Resistors_SMD.pretty
+[submodule "modules/Resistors_SMD.pretty"]
+	url = https://github.com/KiCad/Resistors_SMD.pretty.git
+[submodule "modules/Resistors_ThroughHole.pretty"]
+	path = modules/Resistors_ThroughHole.pretty
+[submodule "modules/Resistors_ThroughHole.pretty"]
+	url = https://github.com/KiCad/Resistors_ThroughHole.pretty.git
+[submodule "modules/Resistors_Universal.pretty"]
+	path = modules/Resistors_Universal.pretty
+[submodule "modules/Resistors_Universal.pretty"]
+	url = https://github.com/KiCad/Resistors_Universal.pretty.git
+[submodule "modules/Housings_QFP.pretty"]
+	path = modules/Housings_QFP.pretty
+[submodule "modules/Housings_QFP.pretty"]
+	url = https://github.com/KiCad/Housings_QFP.pretty.git
+[submodule "modules/SMD_Packages.pretty"]
+	path = modules/SMD_Packages.pretty
+[submodule "modules/SMD_Packages.pretty"]
+	url = https://github.com/KiCad/SMD_Packages.pretty.git
+[submodule "modules/Sockets_Mini-Universal.pretty"]
+	path = modules/Sockets_Mini-Universal.pretty
+[submodule "modules/Sockets_Mini-Universal.pretty"]
+	url = https://github.com/KiCad/Sockets_Mini-Universal.pretty.git
+[submodule "modules/Sockets.pretty"]
+	path = modules/Sockets.pretty
+[submodule "modules/Sockets.pretty"]
+	url = https://github.com/KiCad/Sockets.pretty.git
+[submodule "modules/Sockets_MOLEX_KK-System.pretty"]
+	path = modules/Sockets_MOLEX_KK-System.pretty
+[submodule "modules/Sockets_MOLEX_KK-System.pretty"]
+	url = https://github.com/KiCad/Sockets_MOLEX_KK-System.pretty.git
+[submodule "modules/Sockets_WAGO734.pretty"]
+	path = modules/Sockets_WAGO734.pretty
+[submodule "modules/Sockets_WAGO734.pretty"]
+	url = https://github.com/KiCad/Sockets_WAGO734.pretty.git
+[submodule "modules/Housings_SOIC.pretty"]
+	path = modules/Housings_SOIC.pretty
+[submodule "modules/Housings_SOIC.pretty"]
+	url = https://github.com/KiCad/Housings_SOIC.pretty.git
+[submodule "modules/Housings_SSOP.pretty"]
+	path = modules/Housings_SSOP.pretty
+[submodule "modules/Housings_SSOP.pretty"]
+	url = https://github.com/KiCad/Housings_SSOP.pretty.git
+[submodule "modules/Capacitors_Tantalum_SMD.pretty"]
+	path = modules/Capacitors_Tantalum_SMD.pretty
+[submodule "modules/Capacitors_Tantalum_SMD.pretty"]
+	url = https://github.com/KiCad/Capacitors_Tantalum_SMD.pretty.git
+[submodule "modules/Terminal_Blocks.pretty"]
+	path = modules/Terminal_Blocks.pretty
+[submodule "modules/Terminal_Blocks.pretty"]
+	url = https://github.com/KiCad/Terminal_Blocks.pretty.git
+[submodule "modules/Transformers_SMPS_ThroughHole.pretty"]
+	path = modules/Transformers_SMPS_ThroughHole.pretty
+[submodule "modules/Transformers_SMPS_ThroughHole.pretty"]
+	url = https://github.com/KiCad/Transformers_SMPS_ThroughHole.pretty.git
+[submodule "modules/Valves.pretty"]
+	path = modules/Valves.pretty
+[submodule "modules/Valves.pretty"]
+	url = https://github.com/KiCad/Valves.pretty.git
+[submodule "modules/Wire_Connections_Bridges.pretty"]
+	path = modules/Wire_Connections_Bridges.pretty
+[submodule "modules/Wire_Connections_Bridges.pretty"]
+	url = https://github.com/KiCad/Wire_Connections_Bridges.pretty.git
+[submodule "modules/Wire_Pads.pretty"]
+	path = modules/Wire_Pads.pretty
+[submodule "modules/Wire_Pads.pretty"]
+	url = https://github.com/KiCad/Wire_Pads.pretty.git
+[submodule "modules/Pin_Headers.pretty"]
+	path = modules/Pin_Headers.pretty
+[submodule "modules/Pin_Headers.pretty"]
+	url = https://github.com/KiCad/Pin_Headers.pretty.git
+[submodule "modules/Socket_Strips.pretty"]
+	path = modules/Socket_Strips.pretty
+[submodule "modules/Socket_Strips.pretty"]
+	url = https://github.com/KiCad/Socket_Strips.pretty.git
+[submodule "modules/Housings_DFN_QFN.pretty"]
+	path = modules/Housings_DFN_QFN.pretty
+[submodule "modules/Housings_DFN_QFN.pretty"]
+	url = https://github.com/KiCad/Housings_DFN_QFN.pretty.git
+[submodule "modules/Buttons_Switches_SMD.pretty"]
+	path = modules/Buttons_Switches_SMD.pretty
+[submodule "modules/Buttons_Switches_SMD.pretty"]
+	url = https://github.com/KiCad/Buttons_Switches_SMD.pretty.git
+[submodule "modules/Buttons_Switches_ThroughHole.pretty"]
+	path = modules/Buttons_Switches_ThroughHole.pretty
+[submodule "modules/Buttons_Switches_ThroughHole.pretty"]
+	url = https://github.com/KiCad/Buttons_Switches_ThroughHole.pretty.git
+[submodule "modules/Housings_DIP.pretty"]
+	path = modules/Housings_DIP.pretty
+[submodule "modules/Housings_DIP.pretty"]
+	url = https://github.com/KiCad/Housings_DIP.pretty.git
+[submodule "modules/Microwave.pretty"]
+	path = modules/Microwave.pretty
+[submodule "modules/Microwave.pretty"]
+	url = https://github.com/KiCad/Microwave.pretty.git
+[submodule "modules/Transformers_CHK.pretty"]
+	path = modules/Transformers_CHK.pretty
+[submodule "modules/Transformers_CHK.pretty"]
+	url = https://github.com/KiCad/Transformers_CHK.pretty.git
+[submodule "modules/Varistors.pretty"]
+	path = modules/Varistors.pretty
+[submodule "modules/Varistors.pretty"]
+	url = https://github.com/KiCad/Varistors.pretty.git
+[submodule "modules/TO_SOT_Packages_THT.pretty"]
+	path = modules/TO_SOT_Packages_THT.pretty
+[submodule "modules/TO_SOT_Packages_THT.pretty"]
+	url = https://github.com/KiCad/TO_SOT_Packages_THT.pretty.git
+[submodule "modules/TO_SOT_Packages_SMD.pretty"]
+	path = modules/TO_SOT_Packages_SMD.pretty
+[submodule "modules/TO_SOT_Packages_SMD.pretty"]
+	url = https://github.com/KiCad/TO_SOT_Packages_SMD.pretty.git
+[submodule "modules/Connectors_Multicomp.pretty"]
+	path = modules/Connectors_Multicomp.pretty
+[submodule "modules/Connectors_Multicomp.pretty"]
+	url = https://github.com/KiCad/Connectors_Multicomp.pretty.git
+[submodule "modules/RF_Modules.pretty"]
+	path = modules/RF_Modules.pretty
+[submodule "modules/RF_Modules.pretty"]
+	url = https://github.com/KiCad/RF_Modules.pretty.git
+[submodule "modules/Connectors_JST.pretty"]
+	path = modules/Connectors_JST.pretty
+[submodule "modules/Connectors_JST.pretty"]
+	url = https://github.com/KiCad/Connectors_JST.pretty.git
+[submodule "modules/Connectors_Hirose.pretty"]
+	path = modules/Connectors_Hirose.pretty
+[submodule "modules/Connectors_Hirose.pretty"]
+	url = https://github.com/KiCad/Connectors_Hirose.pretty.git
+[submodule "modules/Connectors_TE-Connectivity.pretty"]
+	path = modules/Connectors_TE-Connectivity.pretty
+[submodule "modules/Connectors_TE-Connectivity.pretty"]
+	url = https://github.com/KiCad/Connectors_TE-Connectivity.pretty.git
+[submodule "modules/Connectors_JAE.pretty"]
+	path = modules/Connectors_JAE.pretty
+[submodule "modules/Connectors_JAE.pretty"]
+	url = https://github.com/KiCad/Connectors_JAE.pretty.git
+[submodule "modules/Shielding_Cabinets.pretty"]
+	path = modules/Shielding_Cabinets.pretty
+[submodule "modules/Shielding_Cabinets.pretty"]
+	url = https://github.com/KiCad/Shielding_Cabinets.pretty.git
+[submodule "modules/Connectors_Samtec.pretty"]
+	path = modules/Connectors_Samtec.pretty
+[submodule "modules/Connectors_Samtec.pretty"]
+	url = https://github.com/KiCad/Connectors_Samtec.pretty.git
+[submodule "modules/Connectors_Phoenix.pretty"]
+	path = modules/Connectors_Phoenix.pretty
+[submodule "modules/Connectors_Phoenix.pretty"]
+	url = https://github.com/KiCad/Connectors_Phoenix.pretty.git
+[submodule "modules/Connectors_Harwin.pretty"]
+	path = modules/Connectors_Harwin.pretty
+[submodule "modules/Connectors_Harwin.pretty"]
+	url = https://github.com/KiCad/Connectors_Harwin.pretty.git
