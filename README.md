@@ -3,7 +3,9 @@
 
 This is the complete package.  Every component library, every footprint library, and every 3D model and other extras that are contained in the official [KiCad repositories](https://github.com/kicad), but in one aggregate repository.  Finally, getting a complete and ready-to-go KiCad environment, as well as keeping everything update, is ony slightly more painful than it ought to be!
 
-This repository is not a mirror, but a repository of repositories, so cloning it will grab **the most up-to-date versions of all of the official support files**, no matter what.  The official repo list is also scraped every hour to check for new repositories that might have been added.  And, if needed, new repos are automatically added, and the fp-lib-table file regenerated to reflect the additions.
+This repository is not a mirror, but a repository of repositories, so cloning it will grab **the most up-to-date versions of all of the official support files**, no matter what.  The official repo list is also scraped every hour to check for new repositories that might have been added.  And, if needed, new repos are automatically added to this one, and the fp-lib-table file regenerated to reflect the additions.
+
+Note: this sets up the footprint libraries as local ones, not using the github plugin.  This is a fair bit faster, and gives you more control, but the trade off is you must manually update your local copies (which is easy to do, thankfully!).
 
 ### How to use this repository 
 ##### (if you just git clone this, it will not work!)
